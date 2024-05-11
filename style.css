@@ -204,37 +204,6 @@ header{
 }
 
 
-/* Features Section 
-
-.features-section{
-    padding: 80px var(--padding-inline-selection) 0;
-    background-image: url(./assets/asset\ 41.png);
-    background-position: center;
-}
-.features-header{
-    text-align: center;
-    margin-bottom: 40px;
-}
-.features-header h2{
-    margin-bottom: 20px;
-}
-
-.features-area{
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 20px;
-    margin-top: 20px;
-}
-.features-card{
-    flex-direction: column;
-    gap: 20px;
-    max-width: 30%;
-    text-align: center;
-}
-.features-card img{
-    width: 60px;
-}
-
 /* Big Feature Section */
 
 .extra-style{
